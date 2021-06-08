@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vimal-Prog
+- 👋 Hi, I’m 
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on any Web development projects.
