@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vimal-Prog
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on any Web development projects.
+- 👀 I’m interested in Web Development and Azure Cloud.
+- 🌱 I’m currently as Cloud Engineer.
+- 💞️ I’m looking to collaborate on any Web development and Azure Cloud Basesd projects.
 - 📫 How to reach me Mobile:9655859256,7401264549, E-mail: vimalmagesh2001@gmail.com.
 
 <!---
